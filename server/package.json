@@ -1,5 +1,5 @@
 {
-  "name": "vue_server_00",
+  "name": "server",
   "version": "1.0.0",
   "main": "app.js",
   "dependencies": {
